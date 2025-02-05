@@ -1,1 +1,1 @@
-# LC---First-App
+# LC-First-App
